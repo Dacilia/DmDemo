@@ -1,0 +1,11 @@
+project 'DmDemo.xcodeproj'
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+
+               
+pod 'Masonry'                     
+target 'DmDemo’ do
+
+end
+
